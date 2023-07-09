@@ -1,2 +1,4 @@
-package section01_Optional;public class LambdaPracMain {
+package section01_Optional;
+
+public class LambdaPracMain {
 }
