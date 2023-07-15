@@ -15,7 +15,7 @@ public class UserFilterMain {
 
         // idToFind가 사용 가능한 아이디인지 찾는 로직
         list.stream().filter(user -> user.sameId(inputId))
-                .findAny()
+                .findAny() // optional 반환 메소드
                 .ifPresentOrElse(
                         user -> {
                             throw new RuntimeException(inputId + " 이미 존재하는 아이디입니다.");
