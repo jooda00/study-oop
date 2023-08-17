@@ -10,3 +10,4 @@
 | 0708 | section01_클래스와 상속 | ✅ |
 | 0709 | section01_Optional | ✅ |
 | 0710 | section01_stream_API | ✅ |
+| 0817 | section01_Object_class | ✅ |
